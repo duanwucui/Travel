@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+> 本项目所有资料均来源自网络，如有侵权，联系我删除！
+
 ## Build Setup
 
 ``` bash
